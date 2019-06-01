@@ -1,11 +1,19 @@
 {
-    "post": [
+    "productos": [
+        {
+            "id": 0,
+            "nombre": "panela",
+            "precio": 2000
+        },
         {
             "id": 1,
-            "title": "hello"
+            "nombre": "arroz",
+            "precio": 3000
+        },
+        {
+            "id": 2,
+            "nombre": "azucar",
+            "precio": 2000
         }
-    ],
-    "profile": {
-        "name": "algo"
-    }
+    ]
 }
